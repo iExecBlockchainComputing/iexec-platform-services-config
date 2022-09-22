@@ -1,0 +1,3 @@
+sms:
+  scone: http://scone-sms:13300
+  gramine: http://gramine-sms:13310
